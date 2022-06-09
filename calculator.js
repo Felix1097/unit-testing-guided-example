@@ -14,7 +14,7 @@ function divide(a, b) {
 
 
 function multiply(a, b) {
-  return  a && b ? a * b : a ? a : b ? b : 0
+ return  a && b ? a * b : a ? a : b ? b : 0
 }
 
 // The following is required to make unit tests work. Please ignore it.
